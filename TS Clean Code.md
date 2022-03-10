@@ -30,8 +30,8 @@
 
 
 
-- ts alias 사용해서 import의 긴 상대경로를 깔끔하게
-ex)`import { UserService } from '@services/UserService';`
+- ts alias 사용해서 import의 긴 상대경로를 깔끔하게<br/>
+ex)`import { UserService } from '@services/UserService';`<br/>
 `tsconfig.json`의 path와 baseUrl로 적용가능
 
 
